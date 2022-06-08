@@ -1,6 +1,6 @@
 # Instrument music (mostly heavy stuff)
 
-List for good VSTs and other stuff. Mainly for metal music. I try to keep this list minimal and to include just a couple tools per category to keep it simple.
+List for good VSTs and other stuff. Mainly for metal music. I try to keep this list minimal and to include just a couple tools per category to keep it simple. Also trying to lean more on easy hazzle-free downloads rather than heavy mailing-list+DRM overhead.
 
 Open for pull requests, but keep in mind I have a shitty taste in music
 

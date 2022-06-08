@@ -8,7 +8,7 @@ Open for pull requests, but keep in mind I have a shitty taste in music
 
 These are plugins you can use in your DAW (Digital Audio Workstation). Usually your DAW has some built-in emulations and tools, but you can install more via VST plugins. 
 
-My DAW of choice is Ableton, but if youre looking for free/cheap DAW I would go for Reaper.
+My DAW of choice is [Ableton Live](https://www.ableton.com/en/live/), but if youre looking for free/cheap DAW I would go for [Reaper](https://www.reaper.fm/).
 
 ## Amps
 

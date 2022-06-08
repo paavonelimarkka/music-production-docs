@@ -15,3 +15,11 @@ https://www.igniteamps.com/#emissary
 Good free Orange Tiny Terror -like amp. Has a good built-in IR
 
 https://blackroosteraudio.com/en/products/cypress_tt-15
+
+## IR + IR loaders
+
+### Lancaster, Pulse
+
+IR loader. Two channels, blend, LPF/HPF etc
+
+https://lancasteraudio.com/pulse/

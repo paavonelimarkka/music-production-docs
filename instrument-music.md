@@ -26,6 +26,12 @@ https://blackroosteraudio.com/en/products/cypress_tt-15
 
 ## IR + IR loaders
 
+### Ignite Amps, NadIR
+
+Good IR loader. I had some crashing problems earlier with this one. Two channels, blend, LPF/HPF etc
+
+https://www.igniteamps.com/#nadir
+
 ### Lancaster, Pulse
 
 IR loader. Two channels, blend, LPF/HPF etc

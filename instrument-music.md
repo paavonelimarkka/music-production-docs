@@ -34,9 +34,15 @@ https://lancasteraudio.com/pulse/
 
 ## Overdrives, Fuzzes, Distortions
 
+### TSC 808, Mercurial
+
+Tubescreamer copy. Really like Mercurial stuff.
+
+https://mercuriall.com/cms/details_freestuff
+
 ### TSE 808
 
-Tubescreamer copy.
+Another tubescreamer copy.
 
 https://www.tseaudio.com/software/tse808
 

@@ -6,7 +6,7 @@ List for good VSTs and other stuff
 
 ### Ignite Amps, Emissary 
 
-Really good free amp VST from Ignite Amps
+Free metal amp VST. No built-in cab emulations / IRs
 
 https://www.igniteamps.com/#emissary
 

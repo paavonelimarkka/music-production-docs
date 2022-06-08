@@ -110,3 +110,9 @@ https://ugritone.com/products/kvlt-drums-ii
 Awesome tape emulator. Can be used as an effect, saturator, compressor etc. 
 
 https://aberrantdsp.com/plugins/sketchcassette/
+
+### Mercurial Spark
+
+Got it from -50% sale. Pretty awesome Marshall-like amp emulation with built-in cab emulation and some effects. Really easy and fast to get good sounds for metal.
+
+https://mercuriall.com/cms/details_spark

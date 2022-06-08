@@ -68,6 +68,12 @@ https://www.igniteamps.com/#pteq-x
 
 ## Compressors
 
+### TDR Kotelnikov
+
+A compressor. I admit I haven't used it that much yet, but I trust TDR!
+
+https://www.tokyodawn.net/tdr-kotelnikov/
+
 ### LoudMax 64
 
 Dead simple but powerful compressor/limiter. Meant for mastering, but can be used on tracking as well. I usually put it in bass track 

@@ -60,6 +60,14 @@ Vintage tube EQ emulation.
 
 https://www.igniteamps.com/#pteq-x
 
+## Compressors
+
+### LoudMax 64
+
+Dead simple but powerful compressor/limiter. Meant for mastering, but can be used on tracking as well. I usually put it in bass track 
+
+https://loudmax.blogspot.com/
+
 ## Reverbs
 
 ### DragonFly Reverb

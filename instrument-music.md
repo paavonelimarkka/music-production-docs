@@ -23,3 +23,17 @@ https://blackroosteraudio.com/en/products/cypress_tt-15
 IR loader. Two channels, blend, LPF/HPF etc
 
 https://lancasteraudio.com/pulse/
+
+## Overdrives
+
+### TSE 808
+
+Tubescreamer copy.
+
+https://www.tseaudio.com/software/tse808
+
+### TSE BOD
+
+Sansamp bass OD copy.
+
+https://www.tseaudio.com/software/tseBOD

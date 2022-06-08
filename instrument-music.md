@@ -54,6 +54,12 @@ Basically the only EQ I use.
 
 https://www.tokyodawn.net/tdr-nova/
 
+### Ignite Amps, PTEq-X
+
+Vintage tube EQ emulation. 
+
+https://www.igniteamps.com/#pteq-x
+
 ## Reverbs
 
 ### DragonFly Reverb

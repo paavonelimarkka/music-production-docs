@@ -40,12 +40,6 @@ Tubescreamer copy. Really like Mercurial stuff.
 
 https://mercuriall.com/cms/details_freestuff
 
-### TSE 808
-
-Another tubescreamer copy.
-
-https://www.tseaudio.com/software/tse808
-
 ### TSE BOD
 
 Sansamp bass OD copy.

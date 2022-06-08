@@ -37,3 +37,13 @@ https://www.tseaudio.com/software/tse808
 Sansamp bass OD copy.
 
 https://www.tseaudio.com/software/tseBOD
+
+## Fuzz
+
+**Please PR me a good free fuzzes!**
+
+### Analog Obsession, Pig Pie
+
+OK-ish fuzz
+
+https://freevstplugins.net/analog-obsession-pig-pie/

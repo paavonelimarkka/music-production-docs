@@ -24,7 +24,7 @@ IR loader. Two channels, blend, LPF/HPF etc
 
 https://lancasteraudio.com/pulse/
 
-## Overdrives
+## Overdrives, Fuzzes, Distortions
 
 ### TSE 808
 
@@ -38,12 +38,26 @@ Sansamp bass OD copy.
 
 https://www.tseaudio.com/software/tseBOD
 
-## Fuzz
-
-**Please PR me a good free fuzzes!**
-
 ### Analog Obsession, Pig Pie
 
 OK-ish fuzz
 
 https://freevstplugins.net/analog-obsession-pig-pie/
+
+
+## Reverbs
+
+### DragonFly Reverb
+
+Good reverb with nice presets
+
+https://michaelwillis.github.io/dragonfly-reverb/
+
+### Voxengo, OldSkoolVerb
+
+https://www.voxengo.com/product/oldskoolverb/
+
+
+
+
+

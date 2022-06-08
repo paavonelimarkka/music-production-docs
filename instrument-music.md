@@ -4,7 +4,14 @@ List for good VSTs and other stuff
 
 ## Amps
 
-**Ignite Amps, Emissary:**  https://www.igniteamps.com/#emissary
+### Ignite Amps, Emissary 
+
 Really good free amp VST from Ignite Amps
 
-**Black Rooster, Cybress TT-15:** https://blackroosteraudio.com/en/products/cypress_tt-15
+https://www.igniteamps.com/#emissary
+
+#### Black Rooster, Cybress TT-15
+
+Good free Orange Tiny Terror -like amp. Has a good built-in IR
+
+https://blackroosteraudio.com/en/products/cypress_tt-15

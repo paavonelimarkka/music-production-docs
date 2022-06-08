@@ -66,6 +66,7 @@ https://michaelwillis.github.io/dragonfly-reverb/
 
 https://www.voxengo.com/product/oldskoolverb/
 
+
 ## Saturation, tape emulation, effects
 
 ### Saturation Knob
@@ -79,3 +80,19 @@ https://www.softube.com/saturationknob
 Lo-Fi effects. Quite annoying download & install
 
 https://www.izotope.com/en/products/vinyl.html
+
+## Things I would recommend to buy
+
+Here is some plugins I have bought and which I would recommend
+
+### Ugritone KVLT2 Drums
+
+Drum emulation with more "oldschool" and rehearsal vibe. Really good sounds, but might be a bit buggy. Still well worth the money.
+
+https://ugritone.com/products/kvlt-drums-ii
+
+### Sketch Cassette 2
+
+Awesome tape emulator. Can be used as an effect, saturator, compressor etc. 
+
+https://aberrantdsp.com/plugins/sketchcassette/

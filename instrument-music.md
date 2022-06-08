@@ -1,6 +1,8 @@
 # Instrument music (mostly heavy stuff)
 
-List for good VSTs and other stuff
+List for good VSTs and other stuff. Mainly for metal music. I try to keep this list minimal and to include just a couple tools per category to keep it simple.
+
+Open for pull requests, but keep in mind I have a shitty taste in music
 
 ## Amps
 
@@ -12,7 +14,7 @@ https://www.igniteamps.com/#emissary
 
 #### Black Rooster, Cybress TT-15
 
-Good free Orange Tiny Terror -like amp. Has a good built-in IR
+Good free Orange Tiny Terror -like amp. Has a good built-in IR. Pretty annoying download+install though.
 
 https://blackroosteraudio.com/en/products/cypress_tt-15
 

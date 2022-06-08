@@ -4,6 +4,12 @@ List for good VSTs and other stuff. Mainly for metal music. I try to keep this l
 
 Open for pull requests, but keep in mind I have a shitty taste in music
 
+**What the hell are these??**
+
+These are plugins you can use in your DAW (Digital Audio Workstation). Usually your DAW has some built-in emulations and tools, but you can install more via VST plugins. 
+
+My DAW of choice is Ableton, but if youre looking for free/cheap DAW I would go for Reaper.
+
 ## Amps
 
 ### Ignite Amps, Emissary 

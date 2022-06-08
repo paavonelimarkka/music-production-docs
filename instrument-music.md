@@ -86,7 +86,6 @@ https://michaelwillis.github.io/dragonfly-reverb/
 
 https://www.voxengo.com/product/oldskoolverb/
 
-
 ## Saturation, tape emulation, effects
 
 ### Saturation Knob
@@ -100,6 +99,12 @@ https://www.softube.com/saturationknob
 Lo-Fi effects. Quite annoying download & install
 
 https://www.izotope.com/en/products/vinyl.html
+
+### Polyverse Music Wider
+
+A good stereo widener. I use this for widening the guitar track while doing quick sketches. That way you can get the drums & bass in the middle of the mix.
+
+https://polyversemusic.com/products/wider/
 
 ## Things I would recommend to buy
 

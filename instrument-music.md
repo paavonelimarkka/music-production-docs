@@ -46,6 +46,13 @@ OK-ish fuzz
 
 https://freevstplugins.net/analog-obsession-pig-pie/
 
+## EQs
+
+### TDR Nova
+
+Basically the only EQ I use.
+
+https://www.tokyodawn.net/tdr-nova/
 
 ## Reverbs
 

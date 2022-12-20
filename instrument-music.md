@@ -118,6 +118,12 @@ A good stereo widener. I use this for widening the guitar track while doing quic
 
 https://polyversemusic.com/products/wider/
 
+### Chow Tape Model
+
+Tape emulation. Easy install, no DRM.
+
+https://chowdsp.com/products.html
+
 ## Things I would recommend to buy
 
 Here is some plugins I have bought and which I would recommend

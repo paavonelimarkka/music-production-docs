@@ -68,13 +68,13 @@ https://freevstplugins.net/analog-obsession-pig-pie/
 
 ### TDR Nova
 
-Basically the only EQ I use.
+Used to be my goto EQ, but nowadays I only use this every now and then and mainly use the following PTEq-X.
 
 https://www.tokyodawn.net/tdr-nova/
 
 ### Ignite Amps, PTEq-X
 
-Vintage tube EQ emulation. 
+Vintage tube EQ (Pultec) emulation. I have lately fell in love with this one. It's forgiving and broad EQ with HPF/LPF. 
 
 https://www.igniteamps.com/#pteq-x
 

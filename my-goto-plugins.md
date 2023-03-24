@@ -117,13 +117,13 @@ Tape emulation. Easy install, no DRM.
 
 https://chowdsp.com/products.html
 
-## Things I can recommend
+## Non-free tools I can recommend
 
-Here is some plugins I have bought and which I would recommend
+Here are some plugins I have bought and which I could recommend
 
-### Ugritone KVLT2 Drums (or other)
+### Ugritone KVLT2 Drums (or other ones)
 
-Drum emulation with more "oldschool" and rehearsal vibe. Really good sounds, but might be a bit buggy. Still well worth the money.
+Drum emulation with more "oldschool" and rehearsal vibe. Really good sounds, but might be a bit buggy. Still well worth the money. I also have the doom and the punk drums and I like them a lot as well.
 
 https://ugritone.com/products/kvlt-drums-ii
 

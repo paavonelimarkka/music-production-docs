@@ -12,7 +12,7 @@ My DAW of choice is [Ableton Live](https://www.ableton.com/en/live/), but if you
 
 ### Neural Amp Modeler
 
-Free open source software. This is a killer! Neural modeler amp with a lot of community made profiles. Can not stress enough how cool this one is!
+Free open source software. This is a killer! Neural modeler amp with a lot of community made profiles. It's still very new so you have to keep up with the development. Can not stress enough how cool this one is!
 
 https://github.com/sdatkinson/neural-amp-modeler
 

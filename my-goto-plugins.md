@@ -1,8 +1,6 @@
-# Instrument music - mostly for heavy stuff
+# My go-to plugins, instrumental
 
-List for good VSTs and other stuff. Mainly for metal music. I try to keep this list minimal and to include just a couple tools per category to keep it simple. Also trying to lean more on easy hazzle-free downloads rather than heavy mailing-list+DRM shite, but some stuff are just too good...
-
-Open for pull requests, but keep in mind I have a shitty taste in music :--)
+List of my go-to VST plugins. Mainly for heavier music. I try to keep this list minimal and to include just a couple tools per category to keep it simple. It will be updated when I find better and especially free tools.
 
 **What the hell are these??**
 
@@ -24,11 +22,6 @@ Free metal amp VST. No built-in cab emulations / IRs
 
 https://www.igniteamps.com/#emissary
 
-#### Black Rooster, Cybress TT-15
-
-Good free Orange Tiny Terror -like amp. Has a good built-in IR. Pretty annoying download+install though.
-
-https://blackroosteraudio.com/en/products/cypress_tt-15
 
 ## IR + IR loaders
 
@@ -79,12 +72,6 @@ Vintage tube EQ (Pultec) emulation. I have lately fell in love with this one. It
 https://www.igniteamps.com/#pteq-x
 
 ## Compressors
-
-### TDR Kotelnikov
-
-A compressor. I admit I haven't used it that much yet, but I trust TDR!
-
-https://www.tokyodawn.net/tdr-kotelnikov/
 
 ### LoudMax 64
 

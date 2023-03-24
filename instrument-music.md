@@ -12,6 +12,12 @@ My DAW of choice is [Ableton Live](https://www.ableton.com/en/live/), but if you
 
 ## Amps
 
+### Neural Amp Modeler
+
+Free open source software. This is a killer! Neural modeler amp with a lot of community made profiles. Can not stress enough how cool this one is!
+
+https://github.com/sdatkinson/neural-amp-modeler
+
 ### Ignite Amps, Emissary 
 
 Free metal amp VST. No built-in cab emulations / IRs

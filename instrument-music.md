@@ -130,11 +130,11 @@ Tape emulation. Easy install, no DRM.
 
 https://chowdsp.com/products.html
 
-## Things I would recommend to buy
+## Things I can recommend
 
 Here is some plugins I have bought and which I would recommend
 
-### Ugritone KVLT2 Drums
+### Ugritone KVLT2 Drums (or other)
 
 Drum emulation with more "oldschool" and rehearsal vibe. Really good sounds, but might be a bit buggy. Still well worth the money.
 
@@ -145,9 +145,3 @@ https://ugritone.com/products/kvlt-drums-ii
 Awesome tape emulator. Can be used as an effect, saturator, compressor etc. 
 
 https://aberrantdsp.com/plugins/sketchcassette/
-
-### Mercurial Spark
-
-Got it from -50% sale. Pretty awesome Marshall-like amp emulation with built-in cab emulation and some effects. Really easy and fast to get good sounds for metal.
-
-https://mercuriall.com/cms/details_spark
